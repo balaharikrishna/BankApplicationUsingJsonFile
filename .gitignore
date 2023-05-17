@@ -1,0 +1,10 @@
+/.vs
+/API
+/BankApplication/bin
+/BankApplication/obj
+/BankApplicationHelperMethods/bin
+/BankApplicationHelperMethods/obj
+/BankApplicationModels/bin
+/BankApplicationModels/obj
+/BankApplicationServices/bin
+/BankApplicationServices/obj
